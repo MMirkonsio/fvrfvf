@@ -3,7 +3,7 @@ export function Navbar() {
         <nav className="flex justify-between items-center p-4 border-b border-neutral-300  mb-4">
             <div className="flex items-center">
                 <img src="./images/images.jfif" alt="Logo" className="h-10 mr-4 rounded-full" />
-                <span className="text-xl font-bold">ADN SPORT TOCOPILLA</span>
+                <span className="text-xl font-bold">ADN SPORT</span>
             </div>
             <ul className="flex space-x-4">
                 <li>
